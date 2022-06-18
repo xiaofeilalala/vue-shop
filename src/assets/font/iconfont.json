@@ -1,0 +1,142 @@
+{
+  "id": "3435638",
+  "name": "vue-shop",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4130830",
+      "name": "银行卡",
+      "font_class": "yinhangqia",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "14110604",
+      "name": "支付宝",
+      "font_class": "zhifubao",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "15933094",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "730799",
+      "name": "用户",
+      "font_class": "icon-user",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "736503",
+      "name": "权限",
+      "font_class": "quanxian",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "2076283",
+      "name": " 订单集合",
+      "font_class": "dingdanjihe",
+      "unicode": "e897",
+      "unicode_decimal": 59543
+    },
+    {
+      "icon_id": "4182581",
+      "name": "分级分类",
+      "font_class": "fenjifenlei",
+      "unicode": "e6e0",
+      "unicode_decimal": 59104
+    },
+    {
+      "icon_id": "7090056",
+      "name": "权限资源管理",
+      "font_class": "quanxianziyuanguanli",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "7316190",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "7473697",
+      "name": "商品管理",
+      "font_class": "shangpinguanli",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "8605760",
+      "name": "用户管理",
+      "font_class": "yonghuguanli",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "8713972",
+      "name": "06-商品管理",
+      "font_class": "-shangpinguanli",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "9114428",
+      "name": "86图表",
+      "font_class": "tubiao",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "10231675",
+      "name": "权限管理",
+      "font_class": "quanxianguanli",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "15838458",
+      "name": "data-view",
+      "font_class": "data-view",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "15838497",
+      "name": "lock",
+      "font_class": "lock",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "16198350",
+      "name": "参数信息",
+      "font_class": "canshuxinxi",
+      "unicode": "e7ec",
+      "unicode_decimal": 59372
+    },
+    {
+      "icon_id": "18494112",
+      "name": "用户列表",
+      "font_class": "yonghuliebiao",
+      "unicode": "e7f1",
+      "unicode_decimal": 59377
+    },
+    {
+      "icon_id": "20286861",
+      "name": "收起侧边栏@2x",
+      "font_class": "shouqicebianlan2x",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    }
+  ]
+}
